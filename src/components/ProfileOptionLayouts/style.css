@@ -1,0 +1,29 @@
+/* .rdrDefinedRangesWrapper {
+  display: none;
+} */
+/* .rdrEndEdge > .rdrDayNumber:active {
+  border-radius: 0 100% 100% 0;
+}
+.rdrDayNumber:active > span::after {
+  content: "";
+  border: 2px solid teal;
+  border-radius: 20rem;
+  left: 0;
+  right: 0;
+  margin: auto;
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+.rdrDayNumber:active::before {
+  content: "TESTIRAM SE";
+  position: absolute;
+  font-size: small;
+  background-color: purple;
+  top: -150%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  white-space: nowrap;
+  width: fit-content;
+} */

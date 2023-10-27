@@ -1,0 +1,23 @@
+body.privacy {
+  padding: 2rem;
+}
+
+body.privacy h2 {
+  font-weight: 800;
+}
+body.privacy ul {
+  list-style-type: square;
+  margin-left: 1rem;
+}
+body.privacy h1 {
+  text-align: center;
+  font-weight: 800;
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+body.privacy h2 {
+  margin: 0.5rem 0 0.5rem 0;
+}
+body.privacy a {
+  color: #047857;
+}
